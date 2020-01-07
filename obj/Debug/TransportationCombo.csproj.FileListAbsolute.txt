@@ -1,0 +1,7 @@
+F:\CIS466\TransportationCombo\TransportationCombo\bin\Debug\TransportationCombo.exe.config
+F:\CIS466\TransportationCombo\TransportationCombo\bin\Debug\TransportationCombo.exe
+F:\CIS466\TransportationCombo\TransportationCombo\bin\Debug\TransportationCombo.pdb
+F:\CIS466\TransportationCombo\TransportationCombo\obj\Debug\TransportationCombo.csprojResolveAssemblyReference.cache
+F:\CIS466\TransportationCombo\TransportationCombo\obj\Debug\TransportationCombo.csproj.CoreCompileInputs.cache
+F:\CIS466\TransportationCombo\TransportationCombo\obj\Debug\TransportationCombo.exe
+F:\CIS466\TransportationCombo\TransportationCombo\obj\Debug\TransportationCombo.pdb
